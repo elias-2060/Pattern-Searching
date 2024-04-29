@@ -7,5 +7,3 @@ There is second label for union to use this option u need to check the checkbox 
 This software is built using QT framework and tested using gtest framework and it works in c++14.
 
 ![Screenshot](imggui.jpg)
-
-Thanks to: Aaditya, Marceli, Elias, Yassine
